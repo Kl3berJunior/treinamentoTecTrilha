@@ -1,9 +1,17 @@
+
+// Compilador
+// Pega todo o codigo em TypeScript e o converte a JS
 {
     "compilerOptions": {
+        // Aponta aonde ficaram os arquivos compilados
         "outDir": "dist/js",
+        // No target escolhemos a versão do JS
         "target": "ES6",
+        // Não compila o arquivo se ouver algum erro nos arquivos TS
         "noEmitOnError": true,
+        // Não emite erro sempre que uma variavel não for tipada
         "noImplicitAny": true
     }, 
+    // Aponta da onde retirar os arquivos
     "include": [ "app/**/*" ]
 }
