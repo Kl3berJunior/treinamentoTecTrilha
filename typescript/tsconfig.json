@@ -10,8 +10,12 @@
         // Não compila o arquivo se ouver algum erro nos arquivos TS
         "noEmitOnError": true,
         // Não emite erro sempre que uma variavel não for tipada
-        "noImplicitAny": true
-    }, 
+        "noImplicitAny": true,
+        // Remove os comentarios
+        "removeComments": true,
+        // Obriga a tratar o elemento quando o resultado é null
+        "strictNullChecks": true
+    },  
     // Aponta da onde retirar os arquivos
     "include": [ "app/**/*" ]
 }
