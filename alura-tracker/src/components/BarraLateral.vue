@@ -4,6 +4,7 @@
       <img src="../assets/logo.png" alt="Logo">
     </h1>
     <button class="button" @click="alterarTema">
+      <!-- As duas chaves nos permite passar informações para o HTML, sendo providos do script -->
       {{ textoBotao }}
     </button>
     <nav class="panel mt-5">
@@ -31,12 +32,14 @@ import { defineComponent } from 'vue';
 
 export default defineComponent({
   name: 'BarraLateral',
+  // O emits aciona um evento na instancia atual, passando para a função ouvinte
   emits: ['aoTemaAlterado'],
   data() {
     return {
       modoEscuroAtivo: false
     }
   },
+  // Declara as propriedades a serem expostas na instância, como por exemplo abaixo que muda o texto do botão
   computed: {
     textoBotao() {
       if (this.modoEscuroAtivo) {
@@ -49,6 +52,7 @@ export default defineComponent({
   methods: {
     alterarTema() {
       this.modoEscuroAtivo = !this.modoEscuroAtivo
+      // O aoTemaAlterado esta passando peo meio do $emit o booleam resultando do click no botão, asssim sendo carregado no app.vue, para
       this.$emit('aoTemaAlterado', this.modoEscuroAtivo)
     }
   }
