@@ -38,23 +38,22 @@
 
 <script lang="ts">
 import { useStore } from "@/store";
-import { OBTER_PRODUTOS } from "@/store/tipo-acoes";
-import { EXCLUIR_PROJETO } from "@/store/tipo-mutacoes";
+import { DELETAR_PROJETO, OBTER_PROJETOS } from "@/store/tipo-acoes";
 import { computed, defineComponent } from "vue";
 
 export default defineComponent({
     name: 'Lista',
     methods: {
         excluir(id: string){
-            this.store.commit(EXCLUIR_PROJETO, id)
+            this.store.dispatch(DELETAR_PROJETO, id)
         }
     },
     setup() {
         const store = useStore();
-        store.dispatch(OBTER_PRODUTOS)
+        store.dispatch(OBTER_PROJETOS)
 
         return {
-            projetos: computed(() => store.state.projetos),
+            projetos: computed(() => store.state.projeto.projetos),
             store
         }
     }

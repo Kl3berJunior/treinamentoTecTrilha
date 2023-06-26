@@ -3,7 +3,34 @@
     {
       "id": 1,
       "nome": "Aplicando API"
+    },
+    {
+      "nome": "Plano de Estudos",
+      "id": 2
+    },
+    {
+      "nome": "Plano de Estudos 2.0",
+      "id": 3
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "duracaoEmSegundos": 120,
+      "descricao": "Aprendendo API",
+      "projeto": {
+        "id": 1,
+        "nome": "Aplicando API"
+      }
+    },
+    {
+      "duracaoEmSegundos": 0,
+      "descricao": "Melhorando em API",
+      "projeto": {
+        "id": 1,
+        "nome": "Aplicando API"
+      },
+      "id": 2
     }
   ]
-
 }
