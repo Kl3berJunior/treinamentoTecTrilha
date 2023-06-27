@@ -17,5 +17,6 @@ module.exports = {
     /* ------------- Para o erro no nomeclatura do vue---------------*/
     'vue/multi-word-component-names': 'off'
     /* --------------------------------------------------------------*/
+    
   }
 }
