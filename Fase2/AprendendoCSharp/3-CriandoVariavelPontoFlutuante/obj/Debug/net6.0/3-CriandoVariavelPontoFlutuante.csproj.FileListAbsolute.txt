@@ -1,0 +1,15 @@
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\bin\Debug\net6.0\3-CriandoVariavelPontoFlutuante.exe
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\bin\Debug\net6.0\3-CriandoVariavelPontoFlutuante.deps.json
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\bin\Debug\net6.0\3-CriandoVariavelPontoFlutuante.runtimeconfig.json
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\bin\Debug\net6.0\3-CriandoVariavelPontoFlutuante.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\bin\Debug\net6.0\3-CriandoVariavelPontoFlutuante.pdb
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\3-CriandoVariavelPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\3-CriandoVariavelPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\3-CriandoVariavelPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\3-CriandoVariavelPontoFlutuante.AssemblyInfo.cs
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\3-CriandoVariavelPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\3-CriandoVariavelPontoFlutuante.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\refint\3-CriandoVariavelPontoFlutuante.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\3-CriandoVariavelPontoFlutuante.pdb
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\3-CriandoVariavelPontoFlutuante.genruntimeconfig.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\3-CriandoVariavelPontoFlutuante\obj\Debug\net6.0\ref\3-CriandoVariavelPontoFlutuante.dll

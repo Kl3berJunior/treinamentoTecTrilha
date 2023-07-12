@@ -1,0 +1,15 @@
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CalculandoIdade.csproj.AssemblyReference.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CalculandoIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CalculandoIdade.AssemblyInfoInputs.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CalculandoIdade.AssemblyInfo.cs
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CalculandoIdade.csproj.CoreCompileInputs.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CalculandoIdade.exe
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CalculandoIdade.deps.json
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CalculandoIdade.runtimeconfig.json
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CalculandoIdade.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CalculandoIdade.pdb
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CalculandoIdade.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\refint\2-CalculandoIdade.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CalculandoIdade.pdb
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CalculandoIdade.genruntimeconfig.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\ref\2-CalculandoIdade.dll

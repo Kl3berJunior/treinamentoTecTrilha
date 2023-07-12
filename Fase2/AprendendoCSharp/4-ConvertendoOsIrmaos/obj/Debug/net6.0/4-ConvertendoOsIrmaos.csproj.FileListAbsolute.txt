@@ -1,0 +1,15 @@
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\bin\Debug\net6.0\4-ConvertendoOsIrmaos.exe
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\bin\Debug\net6.0\4-ConvertendoOsIrmaos.deps.json
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\bin\Debug\net6.0\4-ConvertendoOsIrmaos.runtimeconfig.json
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\bin\Debug\net6.0\4-ConvertendoOsIrmaos.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\bin\Debug\net6.0\4-ConvertendoOsIrmaos.pdb
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\4-ConvertendoOsIrmaos.csproj.AssemblyReference.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\4-ConvertendoOsIrmaos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\4-ConvertendoOsIrmaos.AssemblyInfoInputs.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\4-ConvertendoOsIrmaos.AssemblyInfo.cs
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\4-ConvertendoOsIrmaos.csproj.CoreCompileInputs.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\4-ConvertendoOsIrmaos.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\refint\4-ConvertendoOsIrmaos.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\4-ConvertendoOsIrmaos.pdb
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\4-ConvertendoOsIrmaos.genruntimeconfig.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\4-ConvertendoOsIrmaos\obj\Debug\net6.0\ref\4-ConvertendoOsIrmaos.dll
