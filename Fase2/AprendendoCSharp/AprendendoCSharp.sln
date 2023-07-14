@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CalculandoIdade", "2-Cria
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariavelPontoFlutuante", "3-CriandoVariavelPontoFlutuante\3-CriandoVariavelPontoFlutuante.csproj", "{D1D6ED10-1FB9-400A-9713-DB13ED9BCE4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConvertendoOsIrmaos", "4-ConvertendoOsIrmaos\4-ConvertendoOsIrmaos.csproj", "{3D862693-7B5C-4161-B625-727A0B301F0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConvertendoOsIrmaos", "4-ConvertendoOsIrmaos\4-ConvertendoOsIrmaos.csproj", "{3D862693-7B5C-4161-B625-727A0B301F0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-ManipulacaoDeCaracteres", "5-ManipulacaoDeCaracteres\5-ManipulacaoDeCaracteres.csproj", "{3F21B64E-30FF-4693-B027-69AE36B42713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-ManipulacaoDeCaracteres", "5-ManipulacaoDeCaracteres\5-ManipulacaoDeCaracteres.csproj", "{3F21B64E-30FF-4693-B027-69AE36B42713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Condicional", "7-Condicional\6-Condicional.csproj", "{6D51102F-1E07-4DAF-AFB0-895569AF45E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Escopo", "7-Escopo\7-Escopo.csproj", "{A4B1483F-4CA2-48B2-9813-EF3E1A147B0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{3F21B64E-30FF-4693-B027-69AE36B42713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F21B64E-30FF-4693-B027-69AE36B42713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F21B64E-30FF-4693-B027-69AE36B42713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D51102F-1E07-4DAF-AFB0-895569AF45E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D51102F-1E07-4DAF-AFB0-895569AF45E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D51102F-1E07-4DAF-AFB0-895569AF45E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D51102F-1E07-4DAF-AFB0-895569AF45E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B1483F-4CA2-48B2-9813-EF3E1A147B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B1483F-4CA2-48B2-9813-EF3E1A147B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B1483F-4CA2-48B2-9813-EF3E1A147B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B1483F-4CA2-48B2-9813-EF3E1A147B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -88,7 +88,7 @@ export default defineComponent({
         }
 
         const alterarTarefa = () => {
-            store.dispatch(ALTERAR_TAREFA, tarefaSelecionada)
+            store.dispatch(ALTERAR_TAREFA, tarefaSelecionada.value?.id)
                 .then(() => {
                     fecharModal()
                 });

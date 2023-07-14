@@ -11,18 +11,13 @@
     {
       "id": 4,
       "nome": "Estutado Padrões de Projeto"
+    },
+    {
+      "nome": "Treinamento 2.0",
+      "id": 5
     }
   ],
   "tarefas": [
-    {
-      "id": 1,
-      "duracaoEmSegundos": 120,
-      "descricao": "Aprendendo API",
-      "projeto": {
-        "id": 1,
-        "nome": "Aplicando API"
-      }
-    },
     {
       "duracaoEmSegundos": 0,
       "descricao": "Melhorando em API",
@@ -31,6 +26,25 @@
         "nome": "Aplicando API"
       },
       "id": 2
+    },
+    {
+      "duracaoEmSegundos": 1,
+      "descricao": {
+        "__v_isShallow": true,
+        "dep": {
+          "w": 100,
+          "n": 1
+        },
+        "__v_isRef": true,
+        "_rawValue": "Oi",
+        "_value": "Oi"
+      },
+      "id": 3
+    },
+    {
+      "mutations": {},
+      "actions": {},
+      "id": 4
     }
   ]
 }

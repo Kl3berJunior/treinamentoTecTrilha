@@ -1,0 +1,15 @@
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\bin\Debug\net6.0\7-Condicional.exe
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\bin\Debug\net6.0\7-Condicional.deps.json
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\bin\Debug\net6.0\7-Condicional.runtimeconfig.json
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\bin\Debug\net6.0\7-Condicional.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\bin\Debug\net6.0\7-Condicional.pdb
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\7-Condicional.csproj.AssemblyReference.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\7-Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\7-Condicional.AssemblyInfoInputs.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\7-Condicional.AssemblyInfo.cs
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\7-Condicional.csproj.CoreCompileInputs.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\7-Condicional.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\refint\7-Condicional.dll
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\7-Condicional.pdb
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\7-Condicional.genruntimeconfig.cache
+C:\Users\tectrilha\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\7-Condicional\obj\Debug\net6.0\ref\7-Condicional.dll
