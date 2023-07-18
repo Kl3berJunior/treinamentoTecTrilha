@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tectrilha\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\4-ConvertendoOsIrmaos.csproj": {}
+    "C:\\Users\\k.gomes\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\4-ConvertendoOsIrmaos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tectrilha\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\4-ConvertendoOsIrmaos.csproj": {
+    "C:\\Users\\k.gomes\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\4-ConvertendoOsIrmaos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tectrilha\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\4-ConvertendoOsIrmaos.csproj",
+        "projectUniqueName": "C:\\Users\\k.gomes\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\4-ConvertendoOsIrmaos.csproj",
         "projectName": "4-ConvertendoOsIrmaos",
-        "projectPath": "C:\\Users\\tectrilha\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\4-ConvertendoOsIrmaos.csproj",
-        "packagesPath": "C:\\Users\\tectrilha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tectrilha\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\obj\\",
+        "projectPath": "C:\\Users\\k.gomes\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\4-ConvertendoOsIrmaos.csproj",
+        "packagesPath": "C:\\Users\\k.gomes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\k.gomes\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\4-ConvertendoOsIrmaos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tectrilha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\k.gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

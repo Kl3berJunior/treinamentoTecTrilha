@@ -1,0 +1,15 @@
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\bin\Debug\net6.0\P9-EncadeandoFor.exe
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\bin\Debug\net6.0\P9-EncadeandoFor.deps.json
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\bin\Debug\net6.0\P9-EncadeandoFor.runtimeconfig.json
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\bin\Debug\net6.0\P9-EncadeandoFor.dll
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\bin\Debug\net6.0\P9-EncadeandoFor.pdb
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\P9-EncadeandoFor.csproj.AssemblyReference.cache
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\P9-EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\P9-EncadeandoFor.AssemblyInfoInputs.cache
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\P9-EncadeandoFor.AssemblyInfo.cs
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\P9-EncadeandoFor.csproj.CoreCompileInputs.cache
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\P9-EncadeandoFor.dll
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\refint\P9-EncadeandoFor.dll
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\P9-EncadeandoFor.pdb
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\P9-EncadeandoFor.genruntimeconfig.cache
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\AprendendoCSharp\P9-EncadeandoFor\obj\Debug\net6.0\ref\P9-EncadeandoFor.dll

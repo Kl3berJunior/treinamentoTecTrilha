@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tectrilha\\.nuget\\packages\\": {}
+    "C:\\Users\\k.gomes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tectrilha\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\7-Condicional\\6-Condicional.csproj",
-      "projectName": "6-Condicional",
-      "projectPath": "C:\\Users\\tectrilha\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\7-Condicional\\6-Condicional.csproj",
-      "packagesPath": "C:\\Users\\tectrilha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tectrilha\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\7-Condicional\\obj\\",
+      "projectUniqueName": "C:\\Users\\k.gomes\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\7-Condicional\\P6-Condicional.csproj",
+      "projectName": "P6-Condicional",
+      "projectPath": "C:\\Users\\k.gomes\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\7-Condicional\\P6-Condicional.csproj",
+      "packagesPath": "C:\\Users\\k.gomes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\k.gomes\\Documents\\GitHub\\treinamentoTecTrilha\\Fase2\\AprendendoCSharp\\7-Condicional\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tectrilha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\k.gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
