@@ -1,0 +1,15 @@
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\bin\Debug\net6.0\Podcast.exe
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\bin\Debug\net6.0\Podcast.deps.json
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\bin\Debug\net6.0\Podcast.runtimeconfig.json
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\bin\Debug\net6.0\Podcast.dll
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\bin\Debug\net6.0\Podcast.pdb
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\Podcast.csproj.AssemblyReference.cache
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\Podcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\Podcast.AssemblyInfoInputs.cache
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\Podcast.AssemblyInfo.cs
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\Podcast.csproj.CoreCompileInputs.cache
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\Podcast.dll
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\refint\Podcast.dll
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\Podcast.pdb
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\Podcast.genruntimeconfig.cache
+C:\Users\k.gomes\Documents\GitHub\treinamentoTecTrilha\Fase2\ProjetoOritentaObjeto\Podcast\obj\Debug\net6.0\ref\Podcast.dll
