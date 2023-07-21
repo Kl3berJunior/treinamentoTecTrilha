@@ -23,5 +23,14 @@ namespace ByteBank_ADM.Funcionarios
         {
             Salario *= 1.05;
         }
+
+        public string Senha { get; set; }
+
+        public bool Autenticar(string senha)
+        {
+            return this.Senha == senha;
+        }
+
+
     }
 }

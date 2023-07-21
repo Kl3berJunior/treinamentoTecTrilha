@@ -1,5 +1,6 @@
 ﻿using ByteBank.Funcionarios;
 using bytebank_ADM.Funcionarios;
+using bytebank_ADM.SistemaInterto;
 using bytebank_ADM.Utilitario;
 using ByteBank_ADM.Funcionarios;
 
@@ -20,7 +21,9 @@ GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
 gerenciador.Registrar(pedro);
 gerenciador.Registrar(roberta);
 
+
 Console.WriteLine("O total de bonificações foi de: " + gerenciador.TotalBonificao);
+
 
 pedro.AumentaSalario();
 roberta.AumentaSalario();
@@ -52,6 +55,15 @@ void CalcularBonificacao()
     gerenciador.Registrar(ulisses);
 
     Console.WriteLine("Total de bonificação = " + gerenciador.TotalBonificao);
+
+}
+
+
+void UsarSistema()
+{
+    SistemaInterno sistema = new SistemaInterno();
+
+
 
 }
 
